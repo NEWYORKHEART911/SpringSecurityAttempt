@@ -37,7 +37,7 @@ build/
 ### Mac OS ###
 .DS_Store
 
-application.properties
+*/application.properties
 application.log
 *.idea/*
 *target/*
